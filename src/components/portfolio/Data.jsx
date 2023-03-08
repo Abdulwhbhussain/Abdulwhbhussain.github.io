@@ -41,12 +41,9 @@ export const projectsData = [
 
 export const projectsNav = [
     {
-        name: "frontend",
+        name: "web apps",
     },
     {
-        name: "backend",
-    },
-    {
-        name: "full stack",
+        name: "other",
     }
 ];
