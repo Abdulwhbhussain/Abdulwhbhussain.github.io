@@ -48,8 +48,5 @@ export const projectsNav = [
     },
     {
         name: "full stack",
-    },
-    {
-      name: "other",
-  },
+    }
 ];
