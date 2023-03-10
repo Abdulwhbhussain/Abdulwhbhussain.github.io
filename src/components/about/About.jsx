@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/profile-updated.jpg";
-import CV from "../../assets/Wahab-Cv.pdf";
+import Resume from "../../assets/Wahab-Resume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -19,7 +19,7 @@ const About = () => {
 
                 <p className="about__description">Frontend developer, I create web Pages with UI / UX user interface, I have years of Experience and many clients are happy with the projects carried out.</p>
 
-<a download="" href={CV} className="button button--flex">Download CV 
+<a download="" href={Resume} className="button button--flex">Resume 
 <svg
 class="button__icon"
 xmlns="http://www.w3.org/2000/svg"
