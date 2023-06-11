@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c4faff3.css",
-    "main.js": "/static/js/main.46f52dd1.js",
+    "main.js": "/static/js/main.4e75c462.js",
     "static/media/profile-updated.jpg": "/static/media/profile-updated.9cf83f8f14149970680f.jpg",
     "static/media/Wahab-Resume.pdf": "/static/media/Wahab-Resume.f6c426f3734ad3a480a9.pdf",
     "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
@@ -14,10 +14,10 @@
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
     "main.5c4faff3.css.map": "/static/css/main.5c4faff3.css.map",
-    "main.46f52dd1.js.map": "/static/js/main.46f52dd1.js.map"
+    "main.4e75c462.js.map": "/static/js/main.4e75c462.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4faff3.css",
-    "static/js/main.46f52dd1.js"
+    "static/js/main.4e75c462.js"
   ]
 }
