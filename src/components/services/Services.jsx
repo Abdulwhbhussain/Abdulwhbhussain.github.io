@@ -29,8 +29,8 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Product Designer</h3>
-                            <p className="services__modal-description">Service with more than 3 years of Experience. providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">UI/UX Design</h3>
+                            <p className="services__modal-description">Service with more than 1 years of Experience. providing quality work to clients and companies.</p>
                             
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
@@ -77,8 +77,8 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Ui/Ux Designer</h3>
-                            <p className="services__modal-description">Service with more than 3 years of Experience. providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">Front End Development</h3>
+                            <p className="services__modal-description">Service with more than 1 years of Experience. providing quality work to clients and companies.</p>
                             
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
@@ -125,8 +125,8 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Visual Designer</h3>
-                            <p className="services__modal-description">Service with more than 3 years of Experience. providing quality work to clients and companies.</p>
+                            <h3 className="services__modal-title">Back End Development</h3>
+                            <p className="services__modal-description">Service with more than 1 years of Experience. providing quality work to clients and companies.</p>
                             
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
