@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b3b0842d.css",
-    "main.js": "/static/js/main.301b2718.js",
+    "main.js": "/static/js/main.73dd28c7.js",
     "static/media/meal-ss.PNG": "/static/media/meal-ss.e1baa638f5fe1124b593.PNG",
     "static/media/spaceMissions-ss.PNG": "/static/media/spaceMissions-ss.51bf1823d15346e0fcfe.PNG",
     "static/media/doctors.png": "/static/media/doctors.0649d0d2b317b9272d2b.png",
@@ -14,10 +14,10 @@
     "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/index.html",
     "main.b3b0842d.css.map": "/static/css/main.b3b0842d.css.map",
-    "main.301b2718.js.map": "/static/js/main.301b2718.js.map"
+    "main.73dd28c7.js.map": "/static/js/main.73dd28c7.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b0842d.css",
-    "static/js/main.301b2718.js"
+    "static/js/main.73dd28c7.js"
   ]
 }
