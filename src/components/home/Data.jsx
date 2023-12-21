@@ -56,7 +56,7 @@ const Data = () => {
             </h1>
 
             <h3 className="home__subtitle">Software Engineer</h3>
-            <p className="home__description">Full-stack Software Engineer skilled in JavaScript, React, and Ruby on Rails. Proven mentor with interests in software architecture, distributed systems, and cloud computing (AWS-Azure). Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
+            <p className="home__description">Full-stack Software Engineer skilled in JavaScript, React, Ruby on Rails, Nodejs, Express, MongoDB and PostgreSQL. Proven mentor with interests in software architecture, distributed systems, and cloud computing (AWS-Azure). Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hi
