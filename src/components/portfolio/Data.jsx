@@ -1,41 +1,38 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import mealsSS from "../../assets/meal-ss.PNG";
+import spaceSS from "../../assets/spaceMissions-ss.PNG";
+import workspacedSS from "../../assets/workspaced-ss.PNG";
+import doctorsSS from "../../assets/doctors.png";
 
 
 export const projectsData = [
-    // {
-    //   id: 1,
-    //   image: Work1,
-    //   title: "Web design",
-    //   category: "web",
-    // },
-    // {
-    //   id: 2,
-    //   image: Work2,
-    //   title: "App movil",
-    //   category: "app",
-    // },
-    // {
-    //   id: 3,
-    //   image: Work3,
-    //   title: "Brand design",
-    //   category: "design",
-    // },
-    // {
-    //   id: 4,
-    //   image: Work4,
-    //   title: "App movil",
-    //   category: "app",
-    // },
-    // {
-    //   id: 5,
-    //   image: Work5,
-    //   title: "Web design",
-    //   category: "web",
-    // },
+    {
+      id: 1,
+      image: mealsSS,
+      title: "Meals DB Project",
+      url: "https://abdulwhbhussain.github.io/capstone-module-2/",
+      category: "web",
+    },
+    {
+      id: 2,
+      image: spaceSS,
+      title: "Space Rockets Missions",
+      url: "https://space-travelers-hub-git-development-abdulwhbhussain.vercel.app/",
+      category: "web",
+    },
+    {
+      id: 3,
+      image: workspacedSS,
+      title: "Workspaced",
+      url: "https://zilola-nazarova.github.io/workspace-reservation-front-end/",
+      category: "web",
+    },
+    {
+      id: 4,
+      image: doctorsSS,
+      title: "Health GCS Project",
+      url: "https://github.com/Abdulwhbhussain/Final-Year-Project-2023",
+      category: "web",
+    },
   ];
 
 
