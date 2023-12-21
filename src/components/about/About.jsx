@@ -17,7 +17,7 @@ const About = () => {
 
                 <Info />
 
-                <p className="about__description">Full-stack Software Engineer skilled in JavaScript, React, and Ruby on Rails, Nodejs, Express, MongoDB, PostgreSQL. Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
+                <p className="about__description">Full-stack Software Engineer skilled in JavaScript, React, Ruby on Rails, Nodejs, Express, MongoDB and PostgreSQL. Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
 
 <a download="" href={Resume} className="button button--flex">Resume 
 <svg
