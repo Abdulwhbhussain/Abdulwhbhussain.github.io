@@ -55,8 +55,8 @@ const Data = () => {
                 </svg> */}
             </h1>
 
-            <h3 className="home__subtitle">Web Developer/Designer</h3>
-            <p className="home__description">I am in Web Development Since 2021, Developing Sites from Idea, Design, Creation to Deployment; in Popular Frontend, Backend Technologies and WordPress.</p>
+            <h3 className="home__subtitle">Software Engineer</h3>
+            <p className="home__description">Full-stack Software Engineer skilled in JavaScript, React, and Ruby on Rails. Proven mentor with interests in software architecture, distributed systems, and cloud computing (AWS-Azure). Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hi

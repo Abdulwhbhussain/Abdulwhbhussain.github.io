@@ -17,7 +17,7 @@ const About = () => {
 
                 <Info />
 
-                <p className="about__description">Frontend developer, I create web Pages with UI / UX user interface, I have years of Experience and many clients are happy with the projects carried out.</p>
+                <p className="about__description">Full-stack Software Engineer skilled in JavaScript, React, and Ruby on Rails, Nodejs, Express, MongoDB, PostgreSQL. Dedicated to Growth, Lifetime learning, Upskilling, Expertise, Excellence and Success</p>
 
 <a download="" href={Resume} className="button button--flex">Resume 
 <svg
